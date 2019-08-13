@@ -1,0 +1,1 @@
+ ls urls/ | while read -r line; do echo $(echo $line | sed 's/\..*//'); done | sort  | uniq | sed 's|^|https://github.com/search?o=desc\&s=indexed\&p=1\&q=fork%3Afalse%20in%3Afile%20|' | sed 's|$|%20filename%3Areadme\&type=Code|'

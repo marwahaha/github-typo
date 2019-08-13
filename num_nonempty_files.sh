@@ -1,0 +1,1 @@
+echo $(($(wc -l $1/*  | wc -l)-$(wc -l $1/* | grep "0 " | wc -l)))
