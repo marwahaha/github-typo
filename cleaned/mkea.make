@@ -1,0 +1,16 @@
+https://github.com/ATVG-Studios/domain_registry/blob/master/README.md
+https://github.com/DevOps-CSC519-591-791/DevOps-M1/blob/master/README.md
+https://github.com/Keck-FOBOS/enyo/blob/master/README.md
+https://github.com/MTMurphy77/HIRES_REDUX_Swinburne/blob/master/README
+https://github.com/MTMurphy77/HIRES_REDUX_Swinburne/blob/master/README.svn-base
+https://github.com/adwasser/deimos-longslit/blob/master/README
+https://github.com/dcarlus/emoticons/blob/master/README.md
+https://github.com/ehouais/charts/blob/master/README.md
+https://github.com/jgagneastro/FireHose_OLD/blob/master/README
+https://github.com/jgagneastro/FireHose_v2/blob/master/README
+https://github.com/phylotastic/phylo_services_docs/blob/master/README.md
+https://github.com/phylotastic/phylo_services_docs/blob/master/README.md~
+https://github.com/phylotastic/phylo_webservices/blob/master/README.md
+https://github.com/profxj/xidl/blob/master/README
+https://github.com/surebot/MKEA/blob/master/README.md
+https://github.com/yvesx/MuSES/blob/master/README.md

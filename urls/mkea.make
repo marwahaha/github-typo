@@ -1,0 +1,21 @@
+[
+  "https://github.com/Keck-FOBOS/enyo/blob/5eb7ffa29045bd9394a9a3576a31900b74d10b97/python/enyo/data/README.md",
+  "https://github.com/phylotastic/phylo_services_docs/blob/8c4bb5cab68d677dbc26d89870affccc95a69fd4/ServiceDescription/README.md",
+  "https://github.com/phylotastic/phylo_services_docs/blob/f525e6668ad8466b4ec5cbd3f028127604d3017e/ServiceDescription/README.md~",
+  "https://github.com/ATVG-Studios/domain_registry/blob/ba0d7ceb867f32da88f2190607bdcf944e6516c1/README.md",
+  "https://github.com/dcarlus/emoticons/blob/ef74c24420c2c8668375cb46a205de644e6c5a2d/README.md",
+  "https://github.com/profxj/xidl/blob/7b3e5626a9c46b6d5de03ecb28e4dab02c3da076/Obs/Sky/Empirical/README",
+  "https://github.com/surebot/MKEA/blob/6697f3d92f78d164fd786cd40b5e5bb896113578/README.md",
+  "https://github.com/DevOps-CSC519-591-791/DevOps-M1/blob/05aa31c754fe66c1226668786d100681ab0b3c79/README.md",
+  "https://github.com/ehouais/charts/blob/3cf3919358a9f2c30f8286f4f2ab3e8e2aa6aebb/vbars/README.md",
+  "https://github.com/ehouais/charts/blob/3cf3919358a9f2c30f8286f4f2ab3e8e2aa6aebb/lines/README.md",
+  "https://github.com/ehouais/charts/blob/3cf3919358a9f2c30f8286f4f2ab3e8e2aa6aebb/hbars/README.md",
+  "https://github.com/adwasser/deimos-longslit/blob/de7728cbfe1a03a13d79b5b6e6c904a453a9c6cf/sky_spectra/README",
+  "https://github.com/orthographic-pedant/honeypot/blob/5e62c4173fe35574f801c3331f312c9fe4f1d30d/README.md",
+  "https://github.com/jgagneastro/FireHose_v2/blob/b3065e26db8b4db0209bae7f5f582e9e243a1def/XIDL/xidl/Obs/Sky/Empirical/README",
+  "https://github.com/jgagneastro/FireHose_OLD/blob/c173e32764f1982bcf28bbe4248aa4593edf28ad/3-XIDL/23-XIDL/xidl/Obs/Sky/Empirical/README",
+  "https://github.com/MTMurphy77/HIRES_REDUX_Swinburne/blob/bd587d9ad97c84425ffdeb54754ca0ba832188ed/xidl/Obs/Sky/Empirical/README",
+  "https://github.com/MTMurphy77/HIRES_REDUX_Swinburne/blob/bd587d9ad97c84425ffdeb54754ca0ba832188ed/xidl/Obs/Sky/Empirical/.svn/text-base/README.svn-base",
+  "https://github.com/yvesx/MuSES/blob/814092f9b12cb67039aa9cabd9705284a9ab8cd4/SES/README.md",
+  "https://github.com/phylotastic/phylo_webservices/blob/74c5bc0fdf4d1dce93637cb662aef571ef8b581c/Phylotastic_UI_WebServices_New/README.md"
+]
